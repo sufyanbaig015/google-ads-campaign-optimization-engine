@@ -1,10 +1,9 @@
 [project]
-name = "google-ads-mcp-complete"
+name = "google-ads-campaign-optimization-engine"
 version = "2.0.0"
-description = "Complete Google Ads API v21 MCP Server with full campaign automation tools"
+description = "AI-powered Google Ads campaign optimization via MCP tools"
 readme = "README.md"
 requires-python = ">=3.10"
-license = { text = "MIT" }
 dependencies = [
     "mcp>=1.0.0",
     "google-ads>=24.1.0",
